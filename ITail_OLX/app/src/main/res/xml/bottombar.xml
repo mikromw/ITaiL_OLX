@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tab>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home_black_24dp"
+        activeColor="#ff0000"
+        titleSize="6dp"
+        title="Home"
+        />
+
+    <tab
+        id="@+id/tab_explore"
+        icon="@drawable/ic_dashboard_black_24dp"
+        activeColor="#ff0000"
+        titleSize="6dp"
+        title="Kategori"
+        />
+
+    <tab
+        id="@+id/tab_camera"
+        icon="@drawable/ic_home_black_24dp"
+        activeColor="#ff0000"
+        titleSize="6dp"
+        title="Camera"
+        />
+
+    <tab
+    id="@+id/tab_chat"
+    icon="@drawable/ic_textsms_black_24dp"
+    activeColor="#ff0000"
+    titleSize="6dp"
+    title="Chat"
+    />
+
+    <tab
+        id="@+id/tab_friends"
+        icon="@drawable/ic_favorite_black_24dp"
+        activeColor="#ff0000"
+        titleSize="6dp"
+        title="Favorite"
+        />
+</Tab>
