@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id, IDrawerItem drawerItem) {
                 switch (position){
-                    case 1:
+                    case 0:
                         Intent intent = new Intent(MainActivity.this, Profil.class);
                         startActivity(intent);
 

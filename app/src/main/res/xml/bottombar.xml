@@ -13,7 +13,7 @@
         icon="@drawable/ic_dashboard_black_24dp"
         activeColor="#ff0000"
         titleSize="6dp"
-        title="Explore"
+        title="Kategori"
         />
 
     <tab

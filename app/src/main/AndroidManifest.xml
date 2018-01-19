@@ -28,6 +28,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".fragment.CameraActivity" />
+        <activity android:name=".Profil" />
     </application>
 
 </manifest>
